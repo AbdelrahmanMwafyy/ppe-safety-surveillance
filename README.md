@@ -4,8 +4,8 @@ Detects missing helmets and safety vests on live IP camera
 feeds with zone-based role authorization and vest color 
 classification.
 
-![Visitor No Helmet Detection](assets/demo/visitor_no_helmet.png)
-![worker No Helmet Detection](assets/demo/worker_no_helmet.png)
+![Assets/demo/visitor_no_helmet.jpeg)
+![Assets/demo/worker_no_helmet.jpeg)
 
 ## What It Does
 
@@ -30,7 +30,7 @@ Person · Safety-Cone · Mask · NO-Mask · machine
 
 ## Demo
 
-![Visitor Role - No Helmet](assets/demo/visitor_no_helmet.png)
+![Visitor Role - No Helmet](Assets/demo/visitor_no_helmet.jpeg)
 
 ## Tech Stack
 
