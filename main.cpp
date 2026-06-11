@@ -29,8 +29,8 @@
 #include <WiFi.h>
 
 // ─── Wi-Fi Credentials ────────────────────────────────────────────────
-const char* ssid     = "Hazem";
-const char* password = "lotfy222";
+const char* ssid     = "wifi";
+const char* password = "wifi password";
 
 // ─── Pins ─────────────────────────────────────────────────────────────
 const int PIN_STEP    = 12;
