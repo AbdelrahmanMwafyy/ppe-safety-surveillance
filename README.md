@@ -1,9 +1,15 @@
 # AI Safety Surveillance System
 ### CUFE-STEP 2026 | Cairo University | Mechatronics Engineering (MEE)
 
-A closed-loop industrial safety system that detects PPE violations, identifies individual workers, enforces zone access control, and responds through a BLE laser projector, audio alerts, and a live web dashboard — all in real time without human intervention.
+A closed-loop industrial safety system that detects PPE violations, identifies individual workers, enforces zone access control, and responds through a BLE laser projector  and a live web dashboard  all in real time without human intervention.
 
----
+### Report
+Report is available upon request
+
+### Demo video 
+([https://youtube.com/your-link](https://youtu.be/Yc-KmKwofyc))
+
+
 
 ## What It Does
 
