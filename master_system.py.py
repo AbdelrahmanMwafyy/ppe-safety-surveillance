@@ -18,12 +18,12 @@ from datetime import datetime
 # ─────────────────────────────────────────────
 #  CAMERA CONFIG
 # ─────────────────────────────────────────────
-TAPO_IP     = "172.20.10.4"
+TAPO_IP     = "tapo_ip"
 CAM_PORT    = 2020
-TAPO_USER   = "Mwafyy"
-TAPO_PASS   = "Vswaa2003"
+TAPO_USER   = "tapo_id"
+TAPO_PASS   = "tapo pass"
 TAPO_STREAM = 1
-RTSP_URL    = f"rtsp://Mwafyy:{TAPO_PASS}@{TAPO_IP}:554/stream{TAPO_STREAM}"
+RTSP_URL    = f"rtsp://tapo_id:{TAPO_PASS}@{TAPO_IP}:554/stream{TAPO_STREAM}"
 
 USE_CUDA    = True
 FRAME_SIZE  = (1280, 720)
@@ -35,7 +35,7 @@ CONF_VEST   = 0.25
 # ─────────────────────────────────────────────
 #  ESP32 CONFIG
 # ─────────────────────────────────────────────
-ESP_IP   = "172.20.10.6"   # ← update to serial monitor output
+ESP_IP   = "ESP_ip"   # ← update to serial monitor output
 ESP_PORT = 8080
 
 # ─────────────────────────────────────────────
